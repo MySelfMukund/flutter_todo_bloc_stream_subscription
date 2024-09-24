@@ -47,11 +47,38 @@ Make sure you have the following installed:
 Here's an overview of the project folder structure:
 ```bash
 lib/
-├── blocs/              # Contains Cubits and Bloc logic
+├── cubits/             # Contains Cubits and Bloc logic
 ├── models/             # Data models for tasks
 ├── repository/         # Logic for data storage and retrieval
 ├── screens/            # UI components (screens)
 ├── widgets/            # Reusable UI components
 └── main.dart           # Main entry point
+
+## How It Works
+
+- **Bloc Pattern** is used for managing the state of tasks in the app, ensuring separation of concerns and cleaner code.
+- **StreamSubscription** listens for task changes in real time and updates the UI accordingly.
+- **Repository Layer** handles data persistence, ensuring that tasks are stored and retrieved efficiently.
+
+## State Management
+
+- **Bloc/Cubit:** Used to manage state changes for tasks (add, delete, update).
+- **StreamSubscription:** Listens to task updates and streams them to the UI for real-time interaction.
+
+## Technologies Used
+
+- **Flutter** - Cross-platform development framework
+- **Bloc (Cubit)** - State management
+- **StreamSubscription** - For real-time updates and task management
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-new-feature`).
+3. Commit your changes (`git commit -am 'Add a new feature'`).
+4. Push to the branch (`git push origin feature/my-new-feature`).
+5. Create a Pull Request.
 
 
