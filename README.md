@@ -35,3 +35,12 @@ Make sure you have the following installed:
    ```bash
    cd flutter_todo_bloc_stream_subscription
 
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+   
+5. Run the app:
+   ```bash
+   flutter run
+
+
