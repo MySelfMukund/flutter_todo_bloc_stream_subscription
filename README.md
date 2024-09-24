@@ -46,14 +46,14 @@ Make sure you have the following installed:
 ### Project Structure
 Here's an overview of the project folder structure:
 
-```bash
-lib/
-├── cubits/             # Contains Cubits and Bloc logic
-├── models/             # Data models for tasks
-├── repository/         # Logic for data storage and retrieval
-├── screens/            # UI components (screens)
-├── widgets/            # Reusable UI components
-└── main.dart           # Main entry point
+   ```bash
+   lib/
+   ├── cubits/             # Contains Cubits and Bloc logic
+   ├── models/             # Data models for tasks
+   ├── repository/         # Logic for data storage and retrieval
+   ├── screens/            # UI components (screens)
+   ├── widgets/            # Reusable UI components
+   └── main.dart           # Main entry point
 
 ## How It Works
 
