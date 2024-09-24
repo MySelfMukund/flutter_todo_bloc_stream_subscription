@@ -74,12 +74,12 @@ lib/
 
 ## Contributing
 
-Contributions are welcome! To contribute:
+//Contributions are welcome! To contribute:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/my-new-feature`).
-3. Commit your changes (`git commit -am 'Add a new feature'`).
-4. Push to the branch (`git push origin feature/my-new-feature`).
-5. Create a Pull Request.
+//1. Fork the repository.
+//2. Create a new branch (`git checkout -b feature/my-new-feature`).
+//3. Commit your changes (`git commit -am 'Add a new feature'`).
+//4. Push to the branch (`git push origin feature/my-new-feature`).
+//5. Create a Pull Request.
 
 
