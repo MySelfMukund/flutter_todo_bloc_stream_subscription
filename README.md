@@ -55,7 +55,6 @@ lib/
 ├── widgets/            # Reusable UI components
 └── main.dart           # Main entry point
 
-
 ## How It Works
 
 - **Bloc Pattern** is used for managing the state of tasks in the app, ensuring separation of concerns and cleaner code.
