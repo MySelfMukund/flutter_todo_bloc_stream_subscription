@@ -30,3 +30,8 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/MySelfMukund/flutter_todo_bloc_stream_subscription.git
+
+Navigate to the project folder:
+   ```bash
+   cd flutter_todo_bloc_stream_subscription
+
