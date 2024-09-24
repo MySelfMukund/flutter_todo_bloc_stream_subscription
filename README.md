@@ -1,16 +1,32 @@
-# flutter_todo_bloc_streamsubscription
+# Flutter Todo App (Bloc + StreamSubscription)
 
-A new Flutter project.
+A Todo app built using Flutter, implementing the **Bloc Pattern** with **StreamSubscription** for efficient state management and real-time task updates.
+
+## Features
+
+- Add, delete, and update tasks.
+- Mark tasks as complete or incomplete.
+- Real-time updates using **StreamSubscription**.
+- Uses **Bloc** for managing state.
+- Persistent task storage.
+
+## Screenshots
+
+_Include some screenshots showcasing your app, like task list view, add task screen, etc._
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have the following installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code (for development)
+- A device/emulator for testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MySelfMukund/flutter_todo_bloc_stream_subscription.git
