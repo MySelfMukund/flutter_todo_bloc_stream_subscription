@@ -46,7 +46,7 @@ Here's an overview of the project folder structure:
    ├── cubits/             # Contains Cubits and Bloc logic
    ├── models/             # Data models for tasks
    ├── repository/         # Logic for data storage and retrieval
-   ├── screens/            # UI components (screens)
+   ├── presentations/      # UI components (screens)
    ├── widgets/            # Reusable UI components
    └── main.dart           # Main entry point
 ```
@@ -65,6 +65,6 @@ Here's an overview of the project folder structure:
 ## Technologies Used
 
 - **Flutter** - Cross-platform development framework
-- **Bloc (Cubit)** - State management
+- **Bloc** - State management
 - **StreamSubscription** - For real-time updates and task management
 
