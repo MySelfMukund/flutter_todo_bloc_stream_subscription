@@ -10,10 +10,6 @@ A Todo app built using Flutter, implementing the **Bloc Pattern** with **StreamS
 - Uses **Bloc** for managing state.
 - Persistent task storage.
 
-## Screenshots
-
-_Include some screenshots showcasing your app, like task list view, add task screen, etc._
-
 ## Getting Started
 
 ### Prerequisites
