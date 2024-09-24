@@ -46,6 +46,7 @@ Make sure you have the following installed:
 ### Project Structure
 Here's an overview of the project folder structure:
 
+```bash
 lib/
 ├── cubits/             # Contains Cubits and Bloc logic
 ├── models/             # Data models for tasks
@@ -71,15 +72,4 @@ lib/
 - **Flutter** - Cross-platform development framework
 - **Bloc (Cubit)** - State management
 - **StreamSubscription** - For real-time updates and task management
-
-## Contributing
-
-//Contributions are welcome! To contribute:
-
-//1. Fork the repository.
-//2. Create a new branch (`git checkout -b feature/my-new-feature`).
-//3. Commit your changes (`git commit -am 'Add a new feature'`).
-//4. Push to the branch (`git push origin feature/my-new-feature`).
-//5. Create a Pull Request.
-
 
